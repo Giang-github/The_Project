@@ -63,7 +63,7 @@ body {
   </form>
   <b style="font-size:21px; color:#0F0; background-color:#FFF; border:2px solid #000"> Already have account? <a href="login_admin.php"> Login Now.</a></b> </div>
 <?php
-$con = new mysqli('34.200.32.20', 'giangnt', '123@123a', 'turn_source');
+$con = new mysqli('54.147.207.19', 'giangnt', 'giang2001', 'turn_source');
 if (!$con) {
     echo "ket noi that bai";
 }
