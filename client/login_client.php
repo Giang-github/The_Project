@@ -24,7 +24,7 @@ session_start();
 <a href="register_client.php"> Sign up here </a>
 </p>
 <?php 
-$con = new mysqli('34.200.32.20', 'giangnt', '123@123a', 'turn_source');
+$con = new mysqli('54.147.207.19', 'giangnt', 'giang2001', 'turn_source');
 			if (!$con){
 				echo "ket noi that bai";				
 			}
