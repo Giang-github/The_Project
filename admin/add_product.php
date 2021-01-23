@@ -40,7 +40,7 @@
 </head>
 <body>
 <div class="container">
-	<button class="btn btn-info"><a style="color: white" href="#"><span class="glyphicon glyphicon-plus "></span> Thêm bài hát</a></button>
+	<button class="btn btn-info"><a style="color: white" href="#"><span class="glyphicon glyphicon-plus "></span> Thêm bài hát 11111111111111111111111111111111111111111111111111111111</a></button>
 	<form action="" method="post"  enctype="multipart/form-data">
 		<table class="table" style="width: 550px; margin-top: 25px">
 			
