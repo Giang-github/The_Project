@@ -1,5 +1,5 @@
 <?php
-		$hostname = "54.147.207.19";
+		$hostname = "3.85.120.83";
 		$user = "giangnt";
 		$pass = "giang2001";
 		$db = "turn_source";
